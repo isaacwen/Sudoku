@@ -11,7 +11,7 @@ All puzzles generated are sourced from nine.websudoku.com.
 sudoku_main.py contains all the relevant code for this project. This code is split between the other files, as follows:
 * sudoku_backtracking.py contains all relevant code which implements the backtracking algorithm to solve an arbitrary puzzle
 * sudoku_scraper.py contains all relevant code which implements web scraping to produce the random puzzles
-* sudoku_pygame.py contains all relevant code used to implement PyGame to create the user interface for the game
+* sudoku_pygame.py contains all relevant code used to implement PyGame to create the user interface for the game, using sudoku.png
 
 Additional modules that may need to be downloaded include:
 * time
