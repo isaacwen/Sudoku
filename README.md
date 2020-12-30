@@ -1,4 +1,4 @@
-# Sudoku
+# Sudoku Game
 ## General Information
 Using the backtracking algorithm, web scraping, and PyGame, I created a Sudoku game replicating the
 features of popular Sudoku games, with additional features:
