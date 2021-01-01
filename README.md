@@ -12,7 +12,7 @@ sudoku_main.py contains all the relevant code for this project. This code is spl
 * sudoku_scraper.py contains all relevant code which implements web scraping to produce the random puzzles
 * sudoku_pygame.py contains all relevant code used to implement PyGame to create the user interface for the game, using sudoku.png
 
-Additional modules that may need to be downloaded include:
+Additional dependencies include:
 * time
 * copy
 * pyautogui
