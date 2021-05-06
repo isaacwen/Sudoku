@@ -7,10 +7,11 @@ Using the backtracking algorithm, web scraping, and PyGame, I created a Sudoku g
 
 Features included is a standard Sudoku puzzle generator with varying difficulties that a user can attempt to solve, along with accompanying solutions,
 
-<img src="Pics\pic2.png">
+<p align="center"><img src="Pics/pic2.png" height=50% width=50%>
 
 and an automatic solver for which users can find the solution to an arbitrary puzzle.
-<img src="Pics\pic3.png">
+
+<p align="center"><img src="Pics/pic3.png" height=50% width=50%>
 
 
 All puzzles generated are sourced from nine.websudoku.com.
