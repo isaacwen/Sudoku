@@ -18,7 +18,7 @@ For the version of the project using manual HTML parsing, sudoku_main.py contain
 * sudoku_scraper.py contains all relevant code which implements web scraping to produce the random puzzles
 * sudoku_pygame.py contains all relevant code used to implement PyGame to create the user interface for the game, using sudoku.png
 
-For the second version of the project utilizing BeautifulSoup instead of manual HTML parsing, sudoku_main_bs.py contains all the relavant code. sudoku_scraper_bs.py provides the updated functionality of the web scraper, with the other modules remaining the same.
+For the second version of the project utilizing BeautifulSoup instead of manual HTML parsing, sudoku_main_bs.py contains all the relavant code and sudoku_scraper_bs.py provides the updated functionality of the web scraper, with the other modules remaining the same.
 
 Additional dependencies include:
 * time
