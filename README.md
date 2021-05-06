@@ -2,7 +2,7 @@
 ## General Information
 Using the backtracking algorithm, web scraping, and PyGame, I created a Sudoku game replicating the features of popular digital Sudoku games.
 
-<img src="Pics/pic1.png" height=1em>
+<img src="Pics/pic1.png" height=1rem>
 
 Features included is a standard Sudoku puzzle generator with varying difficulties that a user can attempt to solve, along with accompanying solutions,
 
