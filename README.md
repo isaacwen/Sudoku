@@ -1,8 +1,14 @@
 # Sudoku Game
 ## General Information
-Using the backtracking algorithm, web scraping, and PyGame, I created a Sudoku game replicating the features of popular digital Sudoku games, with additional features:
-* like most other Sudoku games, the user can generate, interact with, and see the solution of random puzzles of varying difficulties
-* the user can also input a Sudoku puzzle and a solution will be generated for that puzzle (if it is solvable)
+Using the backtracking algorithm, web scraping, and PyGame, I created a Sudoku game replicating the features of popular digital Sudoku games.
+<img src="Pics/pic1.png">
+
+Features included is a standard Sudoku puzzle generator with varying difficulties that a user can attempt to solve, along with accompanying solutions,
+<img src="Pics\pic2.png">
+
+and an automatic solver for which users can find the solution to an arbitrary puzzle.
+<img src="Pics\pic3.png">
+
 
 All puzzles generated are sourced from nine.websudoku.com.
 
